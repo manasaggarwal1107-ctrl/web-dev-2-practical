@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_URL = "https://fakestoreapi.com/products";
+const API_URL = "https://dummyjson.com/products";
 
 const IMAGES_PER_PAGE = 4;
 
